@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\ju3webE\ju3webE\obj\Debug\ju3webE.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ju3webE\ju3webE\obj\Debug\ju3webE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\ju3webE\ju3webE\obj\Debug\ju3webE.Form1.resources
+C:\Users\Aluno\source\repos\ju3webE\ju3webE\obj\Debug\ju3webE.Properties.Resources.resources
+C:\Users\Aluno\source\repos\ju3webE\ju3webE\obj\Debug\ju3webE.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ju3webE\ju3webE\obj\Debug\ju3webE.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ju3webE\ju3webE\bin\Debug\ju3webE.exe.config
+C:\Users\Aluno\source\repos\ju3webE\ju3webE\bin\Debug\ju3webE.exe
+C:\Users\Aluno\source\repos\ju3webE\ju3webE\bin\Debug\ju3webE.pdb
+C:\Users\Aluno\source\repos\ju3webE\ju3webE\obj\Debug\ju3webE.exe
+C:\Users\Aluno\source\repos\ju3webE\ju3webE\obj\Debug\ju3webE.pdb
